@@ -7,6 +7,8 @@
 3. Robot Framwork
 4. GUI 的介面操作套件
 ⋅⋅⋅* wxPython: Python 的 GUI 工具包, 必須安裝它才能使用 RIDE
+5. 
+⋅⋅⋅* wxPython: Python 的 GUI 工具包, 必須安裝它才能使用 RIDE
 ⋅⋅⋅* RIDE: Robot Framework 介面編輯器
 ⋅⋅⋅* selenium2library Robot Framework 的 Web 測試庫
 ⋅⋅⋅* Web driver: chromedriver 提供瀏覽器相關自動操作
